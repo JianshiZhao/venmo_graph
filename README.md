@@ -2,7 +2,7 @@
 
 ##Program Summary
 
-This challenge accomplished the following goals:
+This program accomplished the following goals:
 
 - Use Venmo payments that stream in to build a  graph of users and their relationship with one another.
 
