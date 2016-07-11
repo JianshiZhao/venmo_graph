@@ -13,7 +13,7 @@ The vertices on the graph represent Venmo users and whenever one user pays anoth
 
 ##Libraries and Modules
 This program is written in Python 2.7, and uses severl basic modules including:
-- json: this library is used to parses a payment message written in JSON into a Python dictionary.
+- json: this library is used to parse a payment message written in JSON into a Python dictionary.
 - sys : this library is used to catch the command line arguments, which specify the input and output file dictionaries.
 - datetime : this librariy is used to compare time stamps for different payments.
 
